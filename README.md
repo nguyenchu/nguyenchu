@@ -1,33 +1,34 @@
-# Hi, I'm Nguyen 👋
+# Nguyen Chu
 
-Frontend & mobile developer with **7+ years** building React and React Native
-apps — including mobile apps used by tens of thousands of people across Europe.
-I care about scalable frontend architecture, clean API integrations (REST/GraphQL),
-and shipping polished products. On the side I build complete full-stack apps, from
-database and API up to web and native mobile.
+**Mobile & Frontend Developer** · React Native · TypeScript · React
 
-- 🔭 Open to **frontend / mobile developer** roles
-- 🧰 TypeScript · React · React Native / Expo · Next.js · REST · GraphQL
-- 📱 7 years of production React Native — real apps, real users, real scale
-- ⚙️ Also comfortable full-stack: Node.js · Fastify · Prisma · PostgreSQL
+I build reliable mobile and web products that connect polished user experiences with real services and devices. I have 7+ years of production experience, including iOS and Android apps used by tens of thousands of customers across Europe and Canada.
+
+- Built, maintained, released, and supported customer-facing mobile apps end to end
+- Strong in React Native, TypeScript, API integration, and practical debugging
+- Experienced with REST, GraphQL, Bluetooth, Wi-Fi, Firebase, CI/CD, and app-store releases
+- Comfortable working across product, design, embedded, and backend teams
+
+Currently open to **mobile, frontend, and product-focused software developer** roles.
 
 ## Featured projects
 
-| Project | What it is | Stack |
-|---------|------------|-------|
-| **[kjorebok](https://github.com/nguyenchu/kjorebok)** | Full-stack driving logbook — web + mobile + API in one monorepo, with CI/CD and E2E tests | Next.js · Fastify · Prisma · PostgreSQL · Expo · Turborepo |
-| **[melk-og-brod](https://github.com/nguyenchu/melk-og-brod)** | Finds real grocery deals — detects fake "sales" via 90-day price history | React Native · Expo · data pipeline |
-| **[aetherfall](https://github.com/nguyenchu/aetherfall)** | Story-driven roguelite JRPG — one codebase shipping to web and native | Phaser 3 · TypeScript · Vite · Capacitor |
-| **[quickfit](https://github.com/nguyenchu/quickfit)** | Cross-platform workout companion with hands-free spoken guidance | React Native · Expo · TypeScript |
+| Project | What it demonstrates | Stack |
+| --- | --- | --- |
+| **[kjorebok](https://github.com/nguyenchu/kjorebok)** | A full-stack driving logbook: web, mobile, API, CI/CD, and end-to-end tests in one monorepo | Next.js · Fastify · Prisma · PostgreSQL · Expo · Turborepo |
+| **[melk-og-brod](https://github.com/nguyenchu/melk-og-brod)** | A grocery-deal app that uses 90-day price history to identify genuine discounts | React Native · Expo · TypeScript · data pipeline |
+| **[aetherfall](https://github.com/nguyenchu/aetherfall)** | A story-driven roguelite game deployed to web and native platforms from one codebase | Phaser 3 · TypeScript · Vite · Capacitor |
+| **[quickfit](https://github.com/nguyenchu/quickfit)** | A cross-platform workout companion with structured programs and hands-free spoken guidance | React Native · Expo · TypeScript |
 
-## Tech I reach for
+## Core technologies
 
-**Languages:** TypeScript, JavaScript
-**Frontend & mobile:** React, React Native / Expo, Next.js
-**APIs:** REST, GraphQL, JWT auth
-**Backend (side projects):** Node.js, Fastify, Prisma, PostgreSQL
-**Tooling:** Turborepo, pnpm, Docker, GitHub Actions, Vite
+**Mobile & frontend:** React Native, Expo, React, Next.js, TypeScript, JavaScript  
+**Integration:** REST, GraphQL, Firebase, Bluetooth, Wi-Fi  
+**Backend:** Node.js, Fastify, Prisma, PostgreSQL  
+**Delivery:** Git, GitHub Actions, CI/CD, Docker, pnpm, Vite
 
----
+## What I care about
 
-📫 Open to frontend / mobile opportunities · reach me here on GitHub
+Clear product thinking, stable integrations, thoughtful mobile experiences, and software that works well for real people in real conditions.
+
+📫 Reach out through GitHub for mobile and frontend opportunities.
