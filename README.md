@@ -28,6 +28,8 @@ A driving logbook with an Expo mobile app, a Next.js web app, and a Fastify API 
 
 **[Interactive demo](https://kjorebok.nguyenchu.com/demo)** · **[Project walkthrough](https://nguyenchu.com/prosjekter/kjorebok.html)**
 
+[![Kjørebok demo with fictional trips and an example route](site/images/kjorebok-demo.png)](https://kjorebok.nguyenchu.com/demo)
+
 The demo uses fictional trips. Explore maps, switch trip purpose, filter the log, and export CSV without registering. GPS recording and API-backed reporting are outside the demo.
 
 ### [Matkupp / melk-og-brod](https://github.com/nguyenchu/melk-og-brod)
