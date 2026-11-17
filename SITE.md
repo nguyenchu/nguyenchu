@@ -22,14 +22,7 @@ The Kjørebok demo is maintained separately in `nguyenchu/kjorebok` under `apps/
 
 `deploy/nginx/nguyenchu.com.conf` is the site config for `nguyenchu.com` and `www.nguyenchu.com`. Besides the portfolio it serves Themepark (`/themepark/`, with save endpoints proxied to port 5130) and the Matkupp data under `/matkupp/`. It also redirects `/index.html` to `/` with a 301.
 
-The portfolio deploy workflow does not install this file. The file was rebuilt from the server inventory of 2026-11-09, not copied from the server, so compare it with the live config before the first install:
-
-```bash
-scp nguyenchu.com:/etc/nginx/sites-available/nguyenchu.com /tmp/nguyenchu.com.live
-diff /tmp/nguyenchu.com.live deploy/nginx/nguyenchu.com.conf
-```
-
-Keep anything the live file has that this one lacks (headers, cache rules, extra locations), then remove the "RECONSTRUCTED" note. To install:
+The file matches `/etc/nginx/sites-available/nguyenchu.com` on the server. The portfolio deploy workflow does not install it, so after changing it, install it by hand:
 
 ```bash
 scp deploy/nginx/nguyenchu.com.conf nguyenchu.com:/tmp/nguyenchu.com.conf
