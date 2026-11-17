@@ -4,7 +4,7 @@
 
 I build and maintain mobile and web products that connect user experiences with real services and devices. I have **7+ years of production experience**, including iOS and Android apps used by tens of thousands of customers across Europe and Canada.
 
-**[Portfolio](https://nguyenchu.com/)** · **[Try Kjørebok — no account needed](https://kjorebok.nguyenchu.com/demo)** · **[Email](mailto:nguyen.chu@hotmail.com)**
+**[Portfolio](https://nguyenchu.com/)** · **[Try Kjørebok — no account needed](https://kjorebok.nguyenchu.com/demo)** · **[Email](mailto:kontakt@nguyenchu.com)**
 
 Currently open to **mobile, frontend, and product-focused software developer** roles.
 

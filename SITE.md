@@ -3,7 +3,7 @@
 `site/` contains the buildless Norwegian portfolio for https://nguyenchu.com/.
 Serve it locally with `python3 -m http.server 4173 --directory site`.
 
-The homepage distinguishes production experience from personal projects. Case studies link to implementation details and describe tradeoffs without adding unverified employers, dates, or performance claims. The contact address matches the public GitHub profile.
+The homepage distinguishes production experience from personal projects. Case studies link to implementation details and describe tradeoffs without adding unverified employers, dates, or performance claims. The contact address kontakt@nguyenchu.com is forwarded to a personal inbox by Cloudflare Email Routing.
 
 ## Publish
 
